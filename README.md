@@ -1,4 +1,4 @@
-##pvcc-RPSUD.github.io
+##RPSUD.github.io
 
 This project was planned, tested, and developed by Joshua Licari and Christian Millard for the CSC 221 Final Project.
 
